@@ -9,6 +9,7 @@
 import UIKit
 import SafariServices
 
+
 var urlString:String = "https://google.com"
 
 class ViewController: UIViewController, SFSafariViewControllerDelegate {
